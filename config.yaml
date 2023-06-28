@@ -13,7 +13,7 @@ permalinks:
 menu:
   main:
     - name: About
-      url: /about.md
+      url: /about/
     - name: GitHub
       url: https://github.com/tsinghua-green-zhao/blog
     - name: Twitter
