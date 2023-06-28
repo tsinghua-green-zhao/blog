@@ -1,6 +1,14 @@
 ---
 title: "About"
-date: "2016-05-05T21:48:51-07:00"
+date: "2023-06-28T21:21:51-07:00"
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+## Green Zhao
+
+Undergraduate in industrial engineering at Tsinghua University
+
+My hobby: playing games and reading books
+
+Welcome to my github page [green](https://github.com/tsinghua-green-zhao/blog)
+
+Finally, thx to the theme modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).

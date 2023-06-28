@@ -14,3 +14,9 @@ sssss\
 aaaaa\
 sssss
 好家伙
+```r
+# this is a .R file
+library(ggplot)
+ggplot(iris,aes(x=xxx,y=xxx,color=Spicies))+geom_point()
+
+```
